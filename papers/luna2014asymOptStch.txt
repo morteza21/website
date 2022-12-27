@@ -1,0 +1,12 @@
+@inproceedings{Luna:WAFR:2015,
+  title = {Asymptotically Optimal Stochastic Motion Planning with Temporal Goals},
+  author = {Ryan Luna and Morteza Lahijanian and Mark Moll and Lydia E. Kavraki},
+  booktitle = {Algorithmic Foundations of Robotics {XI} - Selected Contributions of the Eleventh International Workshop on the Algorithmic Foundations of Robotics, {WAFR}},
+  series = {Springer Tracts in Advanced Robotics},
+  volume = {107},
+  year = {2015},
+  month = {Aug.},
+  pages = {335--352},
+  publisher = {Springer},
+  DOI = {10.1007/978-3-319-16595-0_20},
+}
