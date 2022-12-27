@@ -1,0 +1,11 @@
+@ARTICLE{Lahijanian:TRO:2012,
+  AUTHOR =       {Morteza Lahijanian and Sean B. Andersson and Calin Belta},
+  TITLE =        {Temporal Logic Motion Planning and Control With Probabilistic Satisfaction Guarantees},
+  JOURNAL =      {IEEE Transactions on Robotics},
+  YEAR =         {2012},
+  volume =       {28},
+  number =       {2},
+  pages =        {396--409},
+  month =        {Apr.},
+  DOI =          {10.1109/TRO.2011.2172150},
+}

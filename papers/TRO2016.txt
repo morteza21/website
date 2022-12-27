@@ -1,0 +1,12 @@
+@ARTICLE{Lahijanian:TRO:2016,
+  AUTHOR =       {Morteza Lahijanian and Matthew R. Maly and Dror Fried and Lydia E. Kavraki and Hadas Kress-Gazit and Moshe Y. Vardi},
+  TITLE =        {Iterative Temporal Planning in Uncertain Environments With Partial Satisfaction Guarantees},
+  JOURNAL =      {IEEE Transactions on Robotics},
+  YEAR =         {2016},
+  volume =       {32},
+  number =       {3},
+  pages =        {538--599},
+  month =        {May},
+  publisher =    {IEEE},
+  doi =          {10.1109/TRO.2016.2544339},
+}

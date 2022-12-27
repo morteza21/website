@@ -1,0 +1,10 @@
+@inproceedings{Pairet:IROS:2018,
+  title={Uncertainty-based online mapping and motion planning for marine robotics guidance},
+  author={Pairet, {\`E}ric and Hern{\'a}ndez, Juan David and Lahijanian, Morteza and Carreras, Marc},
+  booktitle={Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems},
+  pages={2367--2374},
+  year={2018},
+  Publisher = {IEEE},
+  address =  {Madrid, Spain},
+  DOI =  {10.1109/IROS.2018.8593394},
+}

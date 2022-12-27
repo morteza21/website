@@ -1,0 +1,12 @@
+@inproceedings{Theurkauf:CDC:2022,
+  title={Pareto Optimal Strategies for Event Triggered Estimation},
+  author={Anne Theurkauf and Nisar Ahmed and Morteza Lahijanian},
+  booktitle={IEEE Conference on Decision and Control (CDC)},
+  url={https://arxiv.org/abs/2207.08971},
+  publisher={IEEE},
+  year={2022},
+  pages={},
+  address = {Cancun, Mexico},
+  month = {Dec.},
+  note={(to appear)},
+}

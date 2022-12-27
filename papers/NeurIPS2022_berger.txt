@@ -1,0 +1,12 @@
+@inproceedings{Berger:NeurIPS:2022,
+  title={An Algorithm for Learning Switched Linear Dynamics from Data},
+  author={Berger, Guillaume O and Narasimhamurthy, Monal and Watanabe, Kandai and Lahijanian, Morteza and Sankaranarayanan, Sriram},
+  booktitle={Advances in Neural Information Processing Systems (NeurIPS)},
+  url={},
+  publisher={},
+  year={2022},
+  pages={},
+  address = {New Orleans, Louisiana, USA},
+  month = {Nov.},
+  note={(accepted)},
+}

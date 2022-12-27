@@ -1,0 +1,11 @@
+@ARTICLE{Lahijanian:TAC:2015,
+  AUTHOR =       {Morteza Lahijanian and Sean B. Andersson and Calin Belta},
+  TITLE =        {Formal Verification and Synthesis for Discrete-Time Stochastic Systems},
+  JOURNAL =      {IEEE Transactions on Automatic Control},
+  YEAR =         {2015},
+  volume =       {60},
+  number =       {8},
+  pages =        {2031--2045},
+  month =        {Aug.},
+  DOI =          {10.1109/TAC.2015.2398883},
+}

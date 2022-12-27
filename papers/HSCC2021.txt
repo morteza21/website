@@ -1,0 +1,17 @@
+@inproceedings{Jackson:HSCC:2021,
+  AUTHOR =       {John Jackson and Luca Laurenti and Eric Frew and Morteza Lahijanian},
+  TITLE =        {Strategy Synthesis for Partially-known Switched Stochastic Systems},
+  BOOKTITLE =    {Proceedings of the 2021 24nd ACM International Conference on Hybrid Systems: Computation and Control},
+  YEAR =         {2021},
+  month =        {May},
+  publisher =    {ACM},
+  isbn = {9781450383394},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3447928.3456649},
+  doi = {10.1145/3447928.3456649},
+  booktitle = {Proceedings of the 24th International Conference on Hybrid Systems: Computation and Control},
+  articleno = {6},
+  numpages = {11},
+  location = {Nashville, Tennessee},
+  series = {HSCC '21}
+}

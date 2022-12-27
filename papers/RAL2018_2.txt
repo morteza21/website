@@ -1,0 +1,11 @@
+@ARTICLE{Edelkamp:RAL:2018,
+  AUTHOR =       {Stefan Edelkamp and Morteza Lahijanian and Daniele Magazzeni and Erion Plaku},
+  TITLE =        {Integrating Temporal Reasoning and Sampling-Based Motion Planning for Multi-Goal Problems with Dynamics and Time Windows},
+  JOURNAL =    	 {IEEE Robotics and Automation Letters},
+  YEAR =         {2018},
+  PAGES =        {3473--3480},
+  VOLUME =       {3},
+  NUMBER =       {4},
+  MONTH  =       {Oct.},
+  DOI =          {10.1109/LRA.2018.2853642}
+}

@@ -1,0 +1,11 @@
+@INPROCEEDINGS{Ding:ICRA:2012,
+  AUTHOR =       {Xu Chu Ding and Jing Wang and Morteza Lahijanian and Ioannis Ch. Paschalidis and Calin Belta},
+  TITLE =        {Temporal Logic Motion Control using Actor-Critic Methods},
+  BOOKTITLE =    {Proceedings of the IEEE International Conference on Robotics and Automation},
+  YEAR =         {2012},
+  address =      {Saint Paul, MN},
+  month =        {May},
+  pages =        {4687--4692},
+  publisher =    {IEEE},
+  DOI=           {10.1109/ICRA.2012.6225290},
+}

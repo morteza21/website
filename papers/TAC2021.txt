@@ -1,0 +1,12 @@
+@article{Laurenti:TAC:2020,
+  title={Formal and efficient synthesis for continuous-time linear stochastic hybrid processes},
+  author={Laurenti, Luca and Lahijanian, Morteza and Abate, Alessandro and Cardelli, Luca and Kwiatkowska, Marta},
+  journal={IEEE Transactions on Automatic Control},
+  volume={66},
+  number={1},
+  year={2021},
+  month={Jan.},
+  pages={17--32},
+  publisher={IEEE},
+  DOI={10.1109/TAC.2020.2975028},
+}

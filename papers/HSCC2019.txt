@@ -1,0 +1,10 @@
+@INPROCEEDINGS{Cauchi:HSCC:2019,
+  AUTHOR =       {Nathalie Cauchi and Luca Laurenti and Morteza Lahijanian and Alessandro Abate and Marta Kwiatkowska and Luca Cardelli},
+  TITLE =        {Efficiency through Uncertainty: Scalable Formal Synthesis for Stochastic Hybrid Systems},
+  BOOKTITLE =    {Proceedings of the 2019 22nd ACM International Conference on Hybrid Systems: Computation and Control},
+  YEAR =         {2019},
+  month =        {Apr.},
+  address =      {Montreal, QC, Canada},
+  publisher =    {ACM},
+  DOI = {10.1145/3302504.3311805},
+}

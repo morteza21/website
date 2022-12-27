@@ -1,0 +1,11 @@
+@inproceedings{Kottinger:IROS:2022,
+  title={Conflict-based Search for Multi-Robot Motion Planning with Kinodynamic Constraints},
+  author={Kottinger, Justin and Almagor, Shaull and Lahijanian, Morteza},
+  booktitle={Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems},
+  pages={},
+  year={2022},
+  Publisher = {IEEE},
+  address =  {Kyoto, Japan},
+  DOI =  {},
+  note = {(to appear)},
+}

@@ -1,0 +1,11 @@
+@ARTICLE{Lahijanian:RAL:2018,
+  AUTHOR =       {Morteza Lahijanian and Maria Svorenova and Akshay Morye and Brian Yeomans and Dushyant Rao and Ingmar Posner and Paul Newman and Hadas Kress-Gazit and Marta Kwiatkowska},
+  TITLE =        {Resource-Performance Trade-off Analysis for Mobile Robots},
+  JOURNAL =    	 {IEEE Robotics and Automation Letters},
+  YEAR =         {2018},
+  PAGES =        {1840--1847},
+  VOLUME =       {3},
+  NUMBER =       {3},
+  MONTH  =       {July},
+  DOI =          {10.1109/LRA.2018.2803814}
+}

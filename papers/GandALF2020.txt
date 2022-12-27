@@ -1,0 +1,10 @@
+@inproceedings{Wells:GandALF:2020, 
+  title= {{LTLf} Synthesis on Probabilistic Systems}, 
+  author= {Wells, Andrew M. and Lahijanian, Morteza and Kavraki, Lydia E. and Vardi, Moshe Y.},
+  booktitle= {Proceedings of the the Eleventh International Symposium on Games, Automata, Logics, and Formal Verification}, 
+  year= {2020},
+  month= {Sep.},
+  address= {Brussels, Belgium},
+  publisher = {Elsevier},
+  note = {(to appear)},
+}

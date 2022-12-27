@@ -1,0 +1,11 @@
+@INPROCEEDINGS{Kottinger:ICRA:2021,
+  AUTHOR =       {Kottinger, Justin and Almagor, Shaull and Lahijanian, Morteza},
+  TITLE =        {MAPS-X: Explainable Multi-Robot Motion Planning via Segmentation},
+  BOOKTITLE =    {Proceedings of the IEEE International Conference on Robotics and Automation},
+  YEAR =         {2021},
+  address =      {Xi'an, China},
+  month =        {May},
+  pages =        {},
+  publisher =    {IEEE},
+  DOI=           {},
+}

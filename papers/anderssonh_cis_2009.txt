@@ -1,0 +1,10 @@
+@article{Andersson:CIS:2008, 
+  title= {Observers in language-based control}, 
+  author= {Andersson, Sean B and Hristu-Varsakelis, Dimitris and Lahijanian, Morteza and others}, 
+  journal= {Communications in Information \& Systems}, 
+  volume= {8}, 
+  number= {2}, 
+  pages= {85--106}, 
+  year= {2008}, 
+  publisher= {International Press of Boston},
+}

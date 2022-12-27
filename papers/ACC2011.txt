@@ -1,0 +1,10 @@
+@INPROCEEDINGS{Lahijanian:ACC:2011,
+  title={Control of {M}arkov decision processes from {PCTL} specifications},
+  author={Lahijanian, M and Andersson, SB and Belta, C},
+  booktitle={Proceedings of the 2011 American Control Conference},
+  pages={311--316},
+  year={2011},
+  publisher = {IEEE},
+  address =   {San Francisco, USA},
+  DOI= {10.1109/ACC.2011.5990952},  
+} 

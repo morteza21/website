@@ -1,0 +1,11 @@
+@INPROCEEDINGS{Lahijanian:CDC:2012,
+  AUTHOR =       {Morteza Lahijanian and Sean B. Andersson and Calin Belta},
+  TITLE =        {Approximate {M}arkovian Abstractions for Linear Stochastic Systems},
+  BOOKTITLE =    {Proceedings of the IEEE Conference on Decision and Control},
+  YEAR =         {2012},
+  month =        {Dec},
+  pages =        {5966--5971},
+  publisher =    {IEEE},
+  address =      {Maui, HI, USA},
+  DOI=           {10.1109/CDC.2012.6426184},
+}

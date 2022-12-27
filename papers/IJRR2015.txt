@@ -1,0 +1,12 @@
+@article{Wang:IJRR:2015,
+  author    = {Jing Wang and Xu Chu Ding and Morteza Lahijanian and Ioannis Ch. Paschalidis and Calin Belta},
+  title     = {Temporal logic motion control using actor-critic methods},
+  journal   = {International Journal of Robotics Research},
+  volume    = {34},
+  number    = {10},
+  pages     = {1329--1344},
+  year      = {2015},
+  month     = {Aug.},
+  url       = {http://dx.doi.org/10.1177/0278364915581505},
+  doi       = {10.1177/0278364915581505},
+}

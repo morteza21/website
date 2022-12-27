@@ -1,0 +1,11 @@
+@INPROCEEDINGS{Lahijanian:ICRA:2014,
+  AUTHOR =       {Morteza Lahijanian and Lydia E. Kavraki and Moshe Y. Vardi},
+  TITLE =        {A Sampling-Based Strategy Planner for Nondeterministic Hybrid Systems},
+  BOOKTITLE =    {IEEE Conference on Robotics and Automation},
+  PAGES =        {3005--3012},
+  YEAR =         {2014},
+  MONTH =        {May},
+  ADDRESS =      {Hong Kong, China},
+  PUBLISHER =    {IEEE},
+  DOI =          {10.1109/ICRA.2014.6907292},
+}

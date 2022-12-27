@@ -1,0 +1,11 @@
+@INPROCEEDINGS{Luna:ICRA:2014,
+  AUTHOR =       {Ryan Luna and Morteza Lahijanian and Mark Moll and Lydia E. Kavraki},
+  TITLE =        {Fast Stochastic Motion Planning with Optimality Guarantees using Local Policy Reconfiguration},
+  BOOKTITLE =    {IEEE Conference on Robotics and Automation},
+  PAGES =        {3013--3019},
+  YEAR =         {2014},
+  MONTH =        {May},
+  ADDRESS =      {Hong Kong, China},
+  PUBLISHER =    {IEEE},
+  DOI =          {10.1109/ICRA.2014.6907293},
+}

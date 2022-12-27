@@ -1,0 +1,11 @@
+@InProceedings{He:ICRA:2015,
+  title = {Towards Manipulation Planning with Temporal Logic Specifications},
+  author = {Keliang He and Morteza Lahijanian and Lydia E. Kavraki and Moshe Y. Vardi},
+  booktitle = {Proceedings of the IEEE International Conference on Robotics and Automation},
+  year = {2015},
+  month = {May},
+  pages = {346--352},
+  publisher = {IEEE},
+  address = {Seattle, WA},
+  DOI = {10.1109/ICRA.2015.7139022},
+}

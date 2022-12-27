@@ -1,0 +1,11 @@
+@INPROCEEDINGS{Maly:HSCC:2013,
+  AUTHOR =       {Matthew R. Maly and Morteza Lahijanian and Lydia E. Kavraki and Hadas Kress-Gazit and Moshe Y. Vardi},
+  TITLE =        {Iterative Temporal Motion Planning for Hybrid Systems in Partially Unknown Environments},
+  BOOKTITLE =    {International Conference on Hybrid Systems: Computation and Control},
+  YEAR =         {2013},
+  month =        {Apr.},
+  address =      {Philadelphia, PA, USA},
+  pages =        {353--362},
+  organization=  {ACM},
+  DOI=           {10.1145/2461328.2461380},
+}

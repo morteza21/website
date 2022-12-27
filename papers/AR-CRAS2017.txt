@@ -1,0 +1,10 @@
+@ARTICLE{Lahijanian:AR-CRAS:2017,
+  AUTHOR =       {Hadas Kress-Gazit and Morteza Lahijanian and Vasumathi Raman},
+  TITLE =        {Synthesis for Robots: Guarantees and Feedback for Robot Behavior},
+  JOURNAL =      {Annual Review of Control, Robotics, and Autonomous Systems},
+  YEAR =         {2018},
+  MONTH =        {May},
+  VOLUME =       {1},
+  PAGES =        {211--236},
+  DOI =          {10.1146/annurev-control-060117-104838}
+}

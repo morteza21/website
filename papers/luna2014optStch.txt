@@ -1,0 +1,11 @@
+@INPROCEEDINGS{Luna:AAAI:2014,
+  title = {Optimal and Efficient Stochastic Motion Planning in Partially-Known Environments},
+  author = {Ryan Luna and Morteza Lahijanian and Mark Moll and Lydia E. Kavraki},
+  booktitle = {The Twenty-Eighth AAAI Conference on Artificial Intelligence},
+  year = {2014},
+  pages = {2549--2555},
+  month = {July},
+  address = {Quebec City, Canada},
+  publisher = {{AAAI} Press},
+  url = {http://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/view/8457},
+}

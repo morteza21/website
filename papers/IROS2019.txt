@@ -1,0 +1,10 @@
+@INPROCEEDINGS{Wu:IROS:2019,
+  title = {Gaze-based Intention Anticipation over Driving Manoeuvres in Semi-Autonomous Vehicles},
+  booktitle = {Proceedings of the IEEE International Conference on Intelligent Robots and Systems},
+  year = {2019},
+  pages = {6210--6216},
+  author={Wu, Min and Louw, Tyron and Lahijanian, Morteza and Ruan, Wenjie and Huang, Xiaowei and Merat, Natasha and Kwiatkowska, Marta},
+  publisher = {IEEE},
+  address =  {Macau, China},
+  DOI = {10.1109/IROS40897.2019.8967779},
+} 

@@ -1,0 +1,10 @@
+@InProceedings{Lahijanian:AAAI:2016,
+  author={Morteza Lahijanian and Marta Kwiatkowska},
+  title={Social Trust: a Major Challenge for the Future of Autonomous Systems},
+  booktitle={AAAI Fall Symposium on Cross-Disciplinary Challenges for Autonomous Systems},
+  year={2016},
+  pages={189--193},
+  organization={},
+  publisher={{AAAI} Press},
+  series={AAAI Fall Symposium},
+}

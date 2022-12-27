@@ -1,0 +1,11 @@
+@INPROCEEDINGS{He:IROS:2017,
+  AUTHOR =       {Keling He and Morteza Lahijanian and Lydia E. Kavraki and Moshe Y. Vardi},
+  TITLE =        {Reactive Synthesis for Finite Tasks Under Resource Constraints},
+  BOOKTITLE =    {Int. Conf. on Intelligent Robots and Systems (IROS)},
+  month =        {Sep.},
+  YEAR =         {2017},
+  publisher =    {IEEE},
+  pages =        {5326--5332},
+  address =      {Vancouver, BC, Canada},
+  DOI =          {10.1109/IROS.2017.8206426}
+}

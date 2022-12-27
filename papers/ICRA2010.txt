@@ -1,0 +1,10 @@
+@INPROCEEDINGS{Lahijanian:ICRA:2010,
+  AUTHOR =       {M. Lahijanian and J. Wasniewski and S.B. Andersson and C. Belta},
+  TITLE =        {Motion planning and control from temporal logic specifications with probabilistic satisfaction guarantees,},
+  BOOKTITLE =    {International Conference on Robotics and Automation},
+  YEAR =         {2010},
+  pages =        {1050--4729},
+  address =      {Anchorage, Alaska},
+  publisher =    {IEEE},
+  DOI =          {10.1109/ROBOT.2010.5509686},
+}

@@ -1,0 +1,12 @@
+@article{He:RAL:2019,
+  title={Automated Abstraction of Manipulation Domains for Cost-Based Reactive Synthesis},
+  author={He, Keliang and Lahijanian, Morteza and Kavraki, Lydia E and Vardi, Moshe Y},
+  journal={IEEE Robotics and Automation Letters},
+  volume={4},
+  number={2},
+  pages={285--292},
+  year={2019},
+  month = {April},
+  publisher={IEEE},
+  DOI={10.1109/LRA.2018.2889191},
+} 

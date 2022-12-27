@@ -1,0 +1,11 @@
+@INPROCEEDINGS{Wells:ICRA:2021,
+  AUTHOR =       {Wells, Andrew M. and Kingston, Z. and Lahijanian, Morteza and Kavraki, Lydia E. and Vardi, Moshe Y.},
+  TITLE =        {Finite Horizon Synthesis for Probabilistic Manipulation Domains},
+  BOOKTITLE =    {Proceedings of the IEEE International Conference on Robotics and Automation},
+  YEAR =         {2021},
+  address =      {Xi'an, China},
+  month =        {May},
+  pages =        {},
+  publisher =    {IEEE},
+  DOI=           {},
+}

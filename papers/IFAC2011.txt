@@ -1,0 +1,11 @@
+@INPROCEEDINGS{Cizelj:IFAC:2011, 
+  title= {Probabilistically safe vehicle control in a hostile environment}, 
+  author= {Cizelj, Igor and Ding, Xu Chu Dennis and Lahijanian, Morteza and Pinto, Alessandro and Belta, Calin}, 
+  BOOKTITLE= {IFAC Proceedings Volumes}, 
+  volume= {44}, 
+  number= {1}, 
+  pages= {11803--11808}, 
+  year= {2011}, 
+  publisher= {Elsevier},
+  DOI=  {10.3182/20110828-6-IT-1002.03248},
+}

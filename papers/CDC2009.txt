@@ -1,0 +1,11 @@
+@inproceedings{Lahijanian:CDC:2009,
+  title = {A probabilistic approach for control of a stochastic system from {LTL} specifications},
+  author = {Lahijanian, M. and Andersson, S.B. and Belta, C.},
+  booktitle = {Proceedings of the IEEE Conference on Decision and Control},
+  pages = {2236--2241},
+  month = {Dec.},
+  year = {2009},
+  publisher= {IEEE},
+  address =   {Shanghai, P.R. China},
+  DOI = {10.1109/CDC.2009.5400629},
+} 

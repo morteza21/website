@@ -1,0 +1,11 @@
+@inproceedings{Lahijanian:CDC:2016,
+  title={Specification Revision for {M}arkov Decision Processes with Optimal Trade-off},
+  author={Morteza Lahijanian and Marta Kwiatkowska},
+  booktitle={Proceedings of the IEEE 55th Conference on Decision and Control},
+  pages={7411--7418},
+  year={2016},
+  month={Dec.},
+  address = {Las Vegas, NV},
+  publisher = {IEEE},
+  DOI= {10.1109/CDC.2016.7799414},
+}

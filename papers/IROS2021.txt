@@ -1,0 +1,11 @@
+@INPROCEEDINGS{Watanabe:IROS:2021,
+  title = {Probabilistic Specification Learning for Planning with Safety Constraints},
+  booktitle = {IEEE International Conference on Intelligent Robots and Systems},
+  year = {2021},
+  pages = {},
+  author={Watanabe, Kandai and Renninger, Nicholas and Sankaranarayanan, Sriram and Lahijanian, Morteza},
+  publisher = {IEEE},
+  address =  {Prague, Czech Republic},
+  DOI = {},
+  note = {(to appear)}
+} 

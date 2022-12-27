@@ -1,0 +1,11 @@
+@INPROCEEDINGS{Kottinger:ICAPS:2022,
+  title={Conflict-Based Search for Explainable Multi-Agent Path Finding},
+  author={Justin Kottinger and Shaull Almagor and Morteza Lahijanian},
+  BOOKTITLE =    {Int'l Conference on Automated Planning and Scheduling (ICAPS)},
+  YEAR =         {2022},
+  address =      {Singapore},
+  month =        {Jun.},
+  publisher =    {AAAI Press},
+  note = {(to appear)},
+  url={https://arxiv.org/abs/2202.09930},
+}

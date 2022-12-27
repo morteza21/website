@@ -1,0 +1,10 @@
+@inproceedings{Jackson:CDC:2021, 
+  title= {Synergistic Offline-Online Control Synthesis via Local Gaussian Process Regression}, 
+  author= {Jackson, John and Laurenti, Luca and Frew, Eric and Lahijanian, Morteza},
+  booktitle= {Proceedings of the IEEE Conference on Decision and Control}, 
+  year= {2021},
+  month= {Dec.},
+  address =  {Austin, TX, USA},
+  publisher = {IEEE},
+  note = {(to appear)},
+}

@@ -1,0 +1,10 @@
+@INPROCEEDINGS{Moazzez:CDC:2011,
+  title = {Least squares temporal difference actor-critic methods with applications to robot motion control},
+  author = {Moazzez Estanjini, R. and Ding, X.C. and Lahijanian, M. and Wang, J. and Belta, C.A. and Paschalidis, I.Ch.},
+  BOOKTITLE = {Proceedings of the IEEE Conference on Decision and Control},
+  year = {2011},
+  pages = {704--709},
+  publisher = {IEEE},
+  address =   {Orlando, USA},
+  DOI=  {10.1109/CDC.2011.6160485},
+} 
