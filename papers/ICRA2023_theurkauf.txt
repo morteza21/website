@@ -1,0 +1,12 @@
+@inproceedings{Theurkauf:ICRA:2023,
+  url = {https://arxiv.org/abs/2210.07190},
+  author = {Theurkauf, Anne and Ho, Qi Heng and Ilyes, Roland and Ahmed, Nisar and Lahijanian, Morteza},
+  title = {Chance-Constrained Motion Planning with Event-Triggered Estimation},
+  booktitle={IEEE Conference on Robotics and Automation (ICRA)},
+  publisher = {IEEE},
+  year = {2023},
+  pages={},
+  address= {London, England, UK},
+  month= {May},
+  note={(to appear)},
+}

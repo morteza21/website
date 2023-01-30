@@ -1,0 +1,12 @@
+@inproceedings{Ho:ICRA:2023,
+  url = {https://arxiv.org/abs/2210.10202},
+  author = {Ho, Qi Heng and Sunberg, Zachary N. and Lahijanian, Morteza},
+  title = {Planning with SiMBA: Motion Planning under Uncertainty for Temporal Goals using Simplified Belief Guides},
+  booktitle={IEEE Conference on Robotics and Automation (ICRA)},
+  publisher = {IEEE},
+  year={2023},
+  pages={},
+  address= {London, England, UK},
+  month= {May},
+  note={(to appear)},
+}
