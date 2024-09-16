@@ -1,0 +1,12 @@
+@inproceedings{Ilyes:ICRA:2023,
+  title = {Stochastic Robustness Interval for Motion Planning with Signal Temporal Logic},
+  url = {https://arxiv.org/abs/2210.04813},
+  author = {Ilyes, Roland B. and Ho, Qi Heng and Lahijanian, Morteza},
+  booktitle={IEEE Conference on Robotics and Automation (ICRA)},
+  publisher = {IEEE},
+  year = {2023},
+  pages={},
+  address= {London, England, UK},
+  month= {May},
+  note={(to appear)},
+}
